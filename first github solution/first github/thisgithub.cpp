@@ -2,7 +2,8 @@
 
 int main()
 {
-	std::cout << "Hello github";
+	std::cout << "Hello github\n";
 	
+	std::cout << "I love C++\n";
 	return 0;
 }
